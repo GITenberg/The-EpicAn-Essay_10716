@@ -1,5 +1,8 @@
 _repo: The-EpicAn-Essay_10716
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Abercrombie, Lascelles
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Lascelles_Abercrombie
 description: The epic, by Lascelles Abercrombie.- The short story, by Barry Pain.-
   History, by R.H. Gretton.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10716#The-EpicAn-Essay
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
